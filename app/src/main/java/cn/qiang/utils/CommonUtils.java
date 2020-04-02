@@ -5,7 +5,7 @@ import android.content.Context;
 
 public class CommonUtils {
     private static final String TAG = "CommonUtils";
-    private static String token = "2d047115-055e-4f00-9d3a-5143c1a460e2";
+    private static String token = "7ee90bfb-3137-40ec-b368-6fd889781b5e";
     /**
      * @param context
      * @param access_token
